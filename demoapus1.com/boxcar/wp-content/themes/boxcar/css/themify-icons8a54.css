@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'themify';
-	src:url('https://demoapus1.com/boxcar/wp-content/themes/boxcar/fonts/themify.eot');
-	src:url('https://demoapus1.com/boxcar/wp-content/themes/boxcar/fonts/themify.eot') format('embedded-opentype'),
-		url('https://demoapus1.com/boxcar/wp-content/themes/boxcar/fonts/themify.woff') format('woff'),
-		url('https://demoapus1.com/boxcar/wp-content/themes/boxcar/fonts/themify.ttf') format('truetype'),
-		url('https://demoapus1.com/boxcar/wp-content/themes/boxcar/fonts/themify.svg') format('svg');
+	src:url('../fonts/themify.eot');
+	src:url('../fonts/themify.eot') format('embedded-opentype'),
+		url('../fonts/themify.woff') format('woff'),
+		url('../fonts/themify.ttf') format('truetype'),
+		url('../fonts/themify.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
