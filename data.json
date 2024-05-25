@@ -1,0 +1,16 @@
+{
+    "cars":[
+        {
+            "name":"Ferrari",
+            "brand":"Ferrari",
+            "cost":100000,
+            "type":"sedan",
+            "engine":"electric",
+            "img1":"",
+            "img2":"",
+            "img3":"",
+            "img4":"",
+            "vid-orImg5":""
+        }
+    ]
+}
